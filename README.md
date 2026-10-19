@@ -1,7 +1,7 @@
 a collection of templates, stickers, etc.
 
-# Hex-Grid
+### Hex-Grid
 this is a collection of stickers and templates for table top role-playing games (ttrpg) using hex crawl 
 
-# Amateur-Radio
+### Amateur-Radio
 a logging template for field use
